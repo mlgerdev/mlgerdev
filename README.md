@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mlgerdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlgerdev" height="30" width="40" /></a>
-<a href="https://www.behance.net/mlgerdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mlgerdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mlgerdev" target="blank"><img align="center" src="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" alt="mlgerdev" height="30" width="30" /></a>
+<a href="https://www.behance.net/mlgerdev" target="blank"><img align="center" src="https://a5.behance.net/44b86e78bd1bb7a372f74e8122023dfe3e994d3a/img/site/favicon.ico?cb=264615658" alt="mlgerdev" height="30" width="30" /></a>
 <a href="https://www.fiverr.com/mlgerdev" target="blank"><img align="center" src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/favicon.52df53a.ico" alt="mlgerdev" height="30" width="30" /></a>
 </p>
 
