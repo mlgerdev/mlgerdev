@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlgerdev&label=Profile%20views&color=0e75b6&style=flat" alt="mlgerdev" /> </p>
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on **React Projects**
 
